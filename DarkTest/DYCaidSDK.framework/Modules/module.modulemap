@@ -1,0 +1,6 @@
+framework module DYCaidSDK {
+  umbrella header "DYCaidSDK.h"
+
+  export *
+  module * { export * }
+}
